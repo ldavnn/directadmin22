@@ -3,7 +3,7 @@
 OS=`uname`;
 LANGUAGE=""
 TRUE_FALSE="n"
-SERVER="http://hack-like.me/directadmin"
+SERVER="https://raw.githubusercontent.com/ldavnn/directadmin/master"
 
 if [ "$OS" = "FreeBSD" ]; then
 	WGET_PATH=/usr/local/bin/wget
