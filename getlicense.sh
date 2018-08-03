@@ -1,6 +1,6 @@
 #!/bin/sh
 
-SERVER="http://hack-like.me/directadmin"
+SERVER="https://raw.githubusercontent.com/ldavnn/directadmin/master"
 SERVER_NEW="https://www.plesk.com.vn/license.key"
 LICENSE=/usr/local/directadmin/conf/license.key
 LICENSE_GZ=/usr/local/directadmin/conf/license.key.gz
