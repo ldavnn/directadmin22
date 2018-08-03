@@ -542,13 +542,13 @@ fi
 while [ "$yesno" = "n" ];
 do
 {
-	echo -n "Nhap Client ID (hotlike.net) : ";
+	echo -n "Nhap Client ID (example.com) : ";
 	read CID;
 
-	echo -n "Nhap License ID (hotlike.net) : ";
+	echo -n "Nhap License ID (example.com) : ";
 	read LID;
 
-	echo -n "Nhap Hostname (server.hotlike.net) : ";
+	echo -n "Nhap Hostname (server.example.com) : ";
 	read HOST;
 
 	echo "Client ID Cua Ban La:  $CID";
