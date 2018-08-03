@@ -5,7 +5,7 @@ STT_VER=""
 VERSION_DA=""
 TRUE_FALSE="n"
 DA_CONF=/usr/local/directadmin/conf/directadmin.conf
-SERVER="http://hack-like.me/directadmin"
+SERVER="https://raw.githubusercontent.com/ldavnn/directadmin/master"
 
 if [ "$OS" = "FreeBSD" ]; then
 	WGET_PATH=/usr/local/bin/wget
